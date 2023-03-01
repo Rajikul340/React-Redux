@@ -7,8 +7,8 @@ function App() {
   return (
    <>
    {/* <ShortForm/> */}
-   {/* <LongForm/> */}
-   <Count/>
+   <LongForm/>
+   {/* <Count/> */}
    </>
   );
 }
